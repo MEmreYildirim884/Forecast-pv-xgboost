@@ -1,1 +1,3 @@
-2 yazanlar consumption sütununun yazmayanlar pv
+2 yazanlar consumption sütununa ait, 
+
+yazmayanlar pv sütununa ait forecastlar
